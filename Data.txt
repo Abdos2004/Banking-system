@@ -1,0 +1,49 @@
+-------------------- 
+ user ID:1 
+ Username: Abdos 
+ User Password: 123123123 
+ User Passport: A123 
+ Age: 12 
+ Account status: Saving
+ -------------------- 
+ -------------------- 
+ user ID:2 
+ Username: Abooda 
+ User Password: 123123123 
+ User Passport: A321 
+ Age: 19 
+ Account status: Current
+ -------------------- 
+ -------------------- 
+ user ID:3 
+ Username: Abooda 
+ User Password: 123123123 
+ User Passport: A321 
+ Age: 19 
+ Account status: Current
+ -------------------- 
+ -------------------- 
+ user ID:4 
+ Username: Mohamed 
+ User Password: 123123123 
+ User Passport: A456 
+ Age: 30 
+ Account status: Current
+ -------------------- 
+ -------------------- 
+ user ID:5 
+ Username: Mohamed 
+ User Password: 123123123 
+ User Passport: A678 
+ Age: 46 
+ Account status: Current
+ -------------------- 
+ -------------------- 
+ user ID:6 
+ Username: Test 
+ User Password: Test1234 
+ User Passport: 1234 
+ Age: 29 
+ Account status: Current
+ -------------------- 
+ 
